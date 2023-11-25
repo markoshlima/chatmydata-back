@@ -1,0 +1,2 @@
+#Put your openai key and rename the file to constants.py
+APIKEY = "## OPENAI KEY ##"
